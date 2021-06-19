@@ -5,7 +5,7 @@
     <classes>
       <class name="cucmberOptions.TestRunner">
         <methods>
-          <include name="feature"/>
+          <include name="feature" invocation-numbers="1"/>
           <include name="setUpClass"/>
           <include name="tearDownClass"/>
         </methods>
